@@ -1,0 +1,1 @@
+chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/default_config.content.json
